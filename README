@@ -1,0 +1,17 @@
+Security app for Windows is an app created to provide installation of security policies on windows PC
+
+Functionality!
+
+Can visualize all the info about a policy
+Can save a copy of a particular policy
+
+
+Tech
+
+[JavaFX] -  A software platform for creating and delivering desktop applications, as well as rich Internet applications (RIAs) that can run across a wide variety of devices.
+
+How to run?
+You need to make all the configurations for Intellij or Eclipse IDE and run the Main function.
+
+Student Name: Rusu Dacian
+FAF - 181
